@@ -3,7 +3,6 @@ using DesafioProjetoHospedagem.Models;
 
 Console.OutputEncoding = Encoding.UTF8;
 
-// Cria os modelos de hóspedes e cadastra na lista de hóspedes
 List<Pessoa> hospedes = new List<Pessoa>();
 
 Pessoa p1 = new Pessoa(nome: "Hóspede 1");
